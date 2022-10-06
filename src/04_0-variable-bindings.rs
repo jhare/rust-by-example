@@ -16,7 +16,4 @@ fn main() {
     println!("The 'unit' value: {:?}", unit);
 
     let _unused_variable = 3u32; // compiler skips warning if variable name starts with _
-
-
-
 }
