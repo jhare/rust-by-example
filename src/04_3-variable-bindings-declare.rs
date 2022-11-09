@@ -1,8 +1,10 @@
+// adding comment to see branch change
 fn main() {
     let a_binding;
 
     {
         let x = 2;
+        let a = 4;
         a_binding = x * x;
     }
 
